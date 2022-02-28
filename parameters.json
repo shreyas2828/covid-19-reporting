@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_covid_server12_name": {
+            "value": null
+        },
+        "storageAccounts_covid19reportdatalake_name": {
+            "value": null
+        },
+        "storageAccounts_covidreportstoreaccount_name": {
+            "value": null
+        },
+        "virtualNetworks_covid19reportdatalake_vNet5695423_name": {
+            "value": null
+        },
+        "systemTopics_covidreportstoreaccount_a264cf14_82c9_4891_9d3d_ad227c5b8882_name": {
+            "value": null
+        }
+    }
+}
